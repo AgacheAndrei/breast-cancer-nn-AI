@@ -8,6 +8,7 @@ Breast tumor classification into malignant or benign tumors. The data set is in 
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 <img align="left" alt="keras" width="30px" style="padding-right:10px" src="https://github.com/AgacheAndrei/breast-cancer-nn-AI/assets/36128809/20ce22c5-31f8-473f-9cf0-15e7743c3dc0"/> 
 <img align="left" alt="scikit learn" width="60px" style="padding-right:10px" src="https://github.com/AgacheAndrei/breast-cancer-nn-AI/assets/36128809/e1ef909a-bc2d-4662-9c22-09df48be9f05"/> 
+<img align="left" alt="jupyter" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> 
 
 <br>
 
